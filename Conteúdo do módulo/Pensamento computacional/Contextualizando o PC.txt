@@ -1,0 +1,10 @@
+"Wing (2006) afirma que o Pensamento Computacional (PC) deve ser uma habilidade básica a ser ensinada às crianças, assim como ler, escrever e aritmética. É possível encontrar práticas de ensino de programação dentro das escolas do ensino fundamental e médio, sendo aplicadas como atividade extracurricular. Essas práticas podem desenvolver habilidades para auxiliar os alunos na resolução de problemas, ser um elemento ativo na construção do conhecimento e entender o contexto tecnológico em que vivemos."
+
+
+
+Fonte: ZANETTI, Humberto; BORGES, Marcos; RICARTE, Ivan. Pensamento computacional no ensino de programação: Uma revisão sistemática da literatura brasileira. In: Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE). 2016. p. 21.
+
+
+
+Wing, J. M. (2006). “Computational Thinking”. Communications of the ACM. March, Vol. 49, No. 13.
+
